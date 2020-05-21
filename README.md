@@ -1,2 +1,3 @@
 # Python
-Example of jupyter notebboks, machine learning
+Example of jupyter notebook Exploratory Data Analysis and machine learning.
+You can find here the dataset (vgsales) and the jupyter notebook (EAD.ipynb)
